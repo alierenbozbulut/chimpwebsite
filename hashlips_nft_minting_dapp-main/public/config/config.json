@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc43c1a043289DC7dcb9ca30B82ed81798FFc460c",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xc43c1a043289DC7dcb9ca30B82ed81798FFc460c",
+  "NETWORK": {
+    "NAME": "rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "RCE FULL COLLECTION",
+  "SYMBOL": "RCEFULL",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 21000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/rce-full-collection",
+  "SHOW_BACKGROUND": true
+}
